@@ -13,5 +13,7 @@ The target audience for this system is __senior citizens__ with __specific budge
 7. Would you want the PC parts to be divided into categories based on usage?
 
 ## Answers
-
 1. 
+
+## System Requirements derived from Answers
+1.
