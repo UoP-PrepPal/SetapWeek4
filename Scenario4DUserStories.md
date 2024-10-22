@@ -6,14 +6,14 @@ The target audience for this system is __senior citizens__ with __specific budge
 ## Questions
 1. What do you plan on using the pc for? (e.g. Web browsing, Emails, Gaming)
 2. What do you value most when looking for PC parts? (e.g. Price, Value, Power efficiency)
-3. Do you want notifications when certain parts go on sale?
 4. How often do you use your computer?
-5. What type of filters / categories would you like to see?
-6. Do you want notifications when certain parts go on sale?
-7. How many PC Parts would you want to compare at any one time?
-8. How would you describe your computer skills?
-9. Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)
-10. What type of customer support would you like to see from this system?
+5. What struggles do you currently face when looking for PC parts?
+6. What type of filters / categories would you like to see?
+7. Do you want notifications when certain parts go on sale?
+8. How many PC Parts would you want to compare at any one time?
+9. How would you describe your computer skills?
+10. Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)
+11. What type of customer support would you like to see from this system?
 
 ## Answers
 
