@@ -9,10 +9,11 @@ The target audience for this system is __senior citizens__ with __specific budge
 3. Do you want notifications when certain parts go on sale?
 4. How often do you use your computer?
 5. What type of filters / categories would you like to see?
-6. How many PC Parts would you want to compare at any one time?
-7. How would you describe your computer skills?
-8. Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)
-9. What type of customer support would you like to see from this system?
+6. Do you want notifications when certain parts go on sale?
+7. How many PC Parts would you want to compare at any one time?
+8. How would you describe your computer skills?
+9. Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)
+10. What type of customer support would you like to see from this system?
 
 ## Answers
 
