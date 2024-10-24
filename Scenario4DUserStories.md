@@ -12,17 +12,16 @@ The target audience for this system is senior citizens with specific budgets and
 5. Do you want notifications when certain parts go on sale?
 6. Would you want the PC parts to be divided into categories based on usage?
 
-Answers
+## Answers
 
-  Laptop
-  For emailing and talking to grandkids
-  Overwhelmed with technical descriptions, lots of numbers and abbreviations
-  They value price most, and would like to know a little more about the value for the bigger picture, e.g. importance - order parts by how important they are within the PC
-  Yes for notifications
-  Yes for categories that talks about the screen, speed etc. Explain the significance of a part - And simplifying the use case for each part
+1. Laptop
+2. For emailing and talking to grandkids
+3. Overwhelmed with technical descriptions, lots of numbers and abbreviations
+4. They value price most, and would like to know a little more about the value for the bigger picture, e.g. importance - order parts by how important they are within the PC
+5. Yes for notifications
+6. Yes for categories that talks about the screen, speed etc. Explain the significance of a part - And simplifying the use case for each part
 
-
-System Requirements derived from Answers
+## System Requirements derived from Answers
 
   A method to take card payments from the app
   Part descriptions need to be concise and simple to understand, stay away from an excess of numbers/abbreviations. 
