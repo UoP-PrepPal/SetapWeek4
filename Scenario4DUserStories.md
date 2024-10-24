@@ -8,7 +8,6 @@ The target audience for this system is senior citizens with specific budgets and
   <li>What computer do you currently use?</li>
   <li>How often do you use your computer?</li>
   <li>What do you struggle with currently when looking for PC parts?</li>
-  <li>Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)</li>
   <li>What do you value most when looking for PC parts? (e.g. Price, Value, Power efficiency)</li>
   <li>Do you want notifications when certain parts go on sale?</li>
   <li>Would you want the PC parts to be divided into categories based on usage?</li>
