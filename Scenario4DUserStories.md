@@ -19,7 +19,7 @@ The target audience for this system is senior citizens with specific budgets and
   <li>Laptop</li>
   <li>For emailing and talking to grandkids</li>
   <li>Overwhelmed with technical descriptions, lots of numbers and abbreviations</li>
-  <li></li>
+  <li>They value price most, and would like to know a little more about the value for the bigger picture, e.g. importance - order parts by how important they are within the PC</li>
 </ol>
 
 <h2>System Requirements derived from Answers</h2>
