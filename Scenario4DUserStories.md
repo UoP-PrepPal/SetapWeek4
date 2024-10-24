@@ -18,6 +18,8 @@ The target audience for this system is senior citizens with specific budgets and
 <ol>
   <li>Laptop</li>
   <li>For emailing and talking to grandkids</li>
+  <li>Overwhelmed with technical descriptions, lots of numbers and abbreviations</li>
+  <li></li>
 </ol>
 
 <h2>System Requirements derived from Answers</h2>
