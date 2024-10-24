@@ -31,6 +31,7 @@ The target audience for this system is senior citizens with specific budgets and
   <li>Part descriptions need to be concise and simple to understand, stay away from an excess of numbers/abbreviations. </li>
   <li>The system should show how important each part is within the PC.</li>
   <li>The system should send out notifications for when specific parts go on sale.</li>
+  <li>Filters so parts can be sorted by price etc.</li>
 </ol>
 
 
