@@ -16,7 +16,8 @@ The target audience for this system is __senior citizens__ with __specific budge
 
 <h2>Answers</h2>
 <ol>
-  <li></li>
+  <li>Laptop</li>
+  <li>For emailing and talking to grandkids</li>
 </ol>
 
 <h2>System Requirements derived from Answers</h2>
