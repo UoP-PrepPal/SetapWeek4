@@ -31,7 +31,6 @@ The target audience for this system is senior citizens with specific budgets and
 <li>Part descriptions need to be concise and simple to understand, stay away from an excess of numbers/abbreviations.
 </li>
 <li>
-
 The system should send out notifications for when specific parts go on in
 </li>
 </ol>
