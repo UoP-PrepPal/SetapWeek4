@@ -24,6 +24,6 @@ The target audience for this system is senior citizens with specific budgets and
 
 <h2>System Requirements derived from Answers</h2>
 <ol>
-  <li></li>
+  <li>A method to take card payments from the app</li>
 </ol>
 
