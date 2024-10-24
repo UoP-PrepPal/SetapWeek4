@@ -23,12 +23,8 @@ The target audience for this system is senior citizens with specific budgets and
 
 ## System Requirements derived from Answers
 
-  A method to take card payments from the app
-  Part descriptions need to be concise and simple to understand, stay away from an excess of numbers/abbreviations. 
-  The system should show how important each part is within the PC.
-  The system should send out notifications for when specific parts go on sale.
-  Filters so parts can be sorted by price etc.
-
-
-
-
+1. A method to take card payments from the app
+2. Part descriptions need to be concise and simple to understand, stay away from an excess of numbers/abbreviations.
+3. The system should show how important each part is within the PC.
+4. The system should send out notifications for when specific parts go on sale.
+5. Filters so parts can be sorted by price etc.
