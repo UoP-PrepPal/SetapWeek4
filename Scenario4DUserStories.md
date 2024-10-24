@@ -19,10 +19,10 @@ The target audience for this system is senior citizens with specific budgets and
   <li>Laptop</li>
   <li>For emailing and talking to grandkids</li>
   <li>Overwhelmed with technical descriptions, lots of numbers and abbreviations</li>
+  <li>4</li>
   <li>They value price most, and would like to know a little more about the value for the bigger picture, e.g. importance - order parts by how important they are within the PC</li>
 <li>Yes for notifications</li>
-  <li>Yes for categories that talks about the screen, speed etc</li>
-<li>Explain the significance of a part - And simplifying the use case for each part</li>
+  <li>Yes for categories that talks about the screen, speed etc. Explain the significance of a part - And simplifying the use case for each part</li>
 </ol>
 
 <h2>System Requirements derived from Answers</h2>
