@@ -5,22 +5,22 @@ The target audience for this system is __senior citizens__ with __specific budge
 
 <h2>Questions</h2>
 <ol>
-  <li>1. What computer do you currently use?</li>
-  <li>2. How often do you use your computer?</li>
-  <li>3. What do you struggle with currently when looking for PC parts?</li>
-  <li>4. Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)</li>
-  <li>5. What do you value most when looking for PC parts? (e.g. Price, Value, Power efficiency)</li>
-  <li>6. Do you want notifications when certain parts go on sale?</li>
-  <li>7. Would you want the PC parts to be divided into categories based on usage?</li>
+  <li>What computer do you currently use?</li>
+  <li>How often do you use your computer?</li>
+  <li>What do you struggle with currently when looking for PC parts?</li>
+  <li>Why do you want to use parts instead of a ready-to-go computer (“Limited IT experience”)</li>
+  <li>What do you value most when looking for PC parts? (e.g. Price, Value, Power efficiency)</li>
+  <li>Do you want notifications when certain parts go on sale?</li>
+  <li>Would you want the PC parts to be divided into categories based on usage?</li>
 </ol>
 
 <h2>Answers</h2>
 <ol>
-  <li>1. </li>
+  <li></li>
 </ol>
 
 <h2>System Requirements derived from Answers</h2>
 <ol>
-  <li>1. </li>
+  <li></li>
 </ol>
 
